@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# MSc student Astrophysics and Cosmology at the University of Padua
+## MSc student Astrophysics and Cosmology at the University of Padua
 
 - 🌱 I’m currently learning **Observational Cosmology, Interstellar Medium, Bayesian Statistics, photometric and spectroscopic techniques applied to Astrophysics**
 - 🔭 I'm interested in **Galaxy Formation and Evolution, High-redshift galaxies, Active Galactic Nuclei**
