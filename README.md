@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning **Observational Cosmology, Interstellar Medium, Bayesian Statistics, photometric and spectroscopic techniques applied to Astrophysics**
+- 🔭 I'm interested in **Galaxy Formation and Evolution, High-redshift galaxies, Active Galactic Nuclei**
+- 📫 How to reach me: **michele.catone17@gmail.com**
+
 <!--
 **AstroMichele/AstroMichele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
