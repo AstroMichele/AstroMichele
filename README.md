@@ -6,6 +6,8 @@
 - 🔭 I'm interested in **Galaxy Formation and Evolution, High-redshift galaxies, Active Galactic Nuclei**
 - 📫 How to reach me: **michele.catone17@gmail.com**
 
+![alt text](https://stsci-opo.org/STScI-01EVT1FKH8PG84VCBRRPEZHS22.jpg)
+
 <!--
 **AstroMichele/AstroMichele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
