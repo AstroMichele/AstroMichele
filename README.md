@@ -1,10 +1,10 @@
 # Hi there 👋
 
-## MSc student Astrophysics & Cosmology at the University of Padua
+## I am a PhD student at the University of Padua
 
 - 🌱 I’m currently learning **Observational Cosmology, Interstellar Medium, Bayesian Statistics, photometric and spectroscopic techniques applied to Astrophysics**
 - 🔭 I'm interested in **Galaxy Formation and Evolution, High-redshift galaxies, Active Galactic Nuclei**
-- 📫 How to reach me: **michele.catone17@gmail.com**
+- 📫 How to reach me: **michele.catone@phd.unipd.it**
 
 ![alt text](https://stsci-opo.org/STScI-01EVT1FKH8PG84VCBRRPEZHS22.jpg)
 
